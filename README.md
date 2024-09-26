@@ -9,3 +9,5 @@ The objective of this assignment is to apply the fundamentals of data analytics,
 algebra, calculus, statistics and algorithms, to solve real-world business problems. You will
 demonstrate the ability to structure solutions, make decisions based on statistical analysis,
 and integrate data analytics concepts for problem solving.
+
+This project has been created and executed using Google Colabs.
